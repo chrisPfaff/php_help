@@ -17,6 +17,6 @@
     <title>PHP_Help</title>
   </head>
   <body>
-    <h1>PHP</h1>
+    <h1>PHP_Help</h1>
   </body>
 </html>
